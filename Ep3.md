@@ -239,7 +239,7 @@ Now, to run this, execute
 rosrun ep3 navigator.py
 ```
 
-The bot should start moving inside the maze following the walls and 
+The bot should start moving inside the maze following the walls.
 
 This summarises one example of autonomous navigation (in this case using wall following). 
 
