@@ -247,7 +247,15 @@ This summarises one example of autonomous navigation (in this case using wall fo
 
 Through this workshop, you were introduced to some tools used in Robotics centered around ROS. You saw the basics of ROS, simulation and visualization tools like RViz and Gazebo, image processing software - OpenCV, ArUco markers and many more. You also saw a basic autonomous navigation of a grid using the turtlebot by travelling along the walls of the grid. 
 
-Before we proceed to the task for this week, we first take a bird's eye view of the various applications of ROS and where you can continue exploring its applications in robotics.
+Before we proceed to the task for this week, we first present a few points that may or may not be of interest to you going ahead in ROS.
+
+* Versions of ROS: Through this workshop, most of you would have been using ROS Melodic-Morenia (Ubuntu 18) or ROS Noetic Ninjemys (Ubuntu 20). These were versions of ROS 1, and ROS Noetic would be the last version of ROS 1. Both of these have long term support of 5 years, with ROS Noetic supported until 2025. The latest versions of ROS 2 currently released (and supported) are ROS Foxy Fitzroy and ROS Galactic Geochelone. In order to aquaint yourself with the changes between ROS 1 and ROS 2, and also on deciding whether to stick with ROS 1 or start using ROS 2, you could check this [link](https://roboticsbackend.com/ros1-vs-ros2-practical-overview/).
+* In this workshop, most of the application was done on turtlebot. In order to explore on how to proceed to use ROS in your own custom bots, you could refer to the 6th section of the ROS tutorials on the ROS wiki. (Can be found [here](http://wiki.ros.org/ROS/Tutorials))
+* For anything else regarding ROS, your go-to site will mostly be the [ROS Wiki](http://wiki.ros.org/). It contains relevant resources pertaining to all aspects of ROS, such as Tutorials, ROS Community, various packages, how to contribute your own packages to ROS etc.
+
+
+We now head towards the task for this week.
+
 
 
  
