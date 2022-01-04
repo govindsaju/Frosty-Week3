@@ -1,4 +1,4 @@
-## Episode 3
+## Episode 3 - The Final Showdown
 
 Welcome to the final episode of Frosty Winter!
 
@@ -9,7 +9,7 @@ To start off, we look at an example of autonomous navigation in a grid. You migh
 
 ### Navigation in a Closed Maze 
 
-First, create a new package in the src directory of your catkin workspace named ep3, with dependencies on rospy, std_msgs and gazebo_ros. In this package, create folders for launch, script and worlds. Copy [this file](https://github.com/govindsaju/Frosty-Week3/blob/main/Week3_Files/maze.world) and put this into the worlds folder, and copy [this file](https://github.com/govindsaju/Frosty-Week3/blob/main/Week3_Files/maze_world.launch) and put it into the launch folder. This was just to load the map in gazebo and spawn the turtlebot.
+First, create a new package in the src directory of your catkin workspace named ep3, with dependencies on rospy, std_msgs and gazebo_ros. In this package, create folders for launch, script and worlds. Copy [this file](https://github.com/erciitb/frosty-winter-2021/tree/main/W3_Files/maze.world) and put this into the worlds folder, and copy [this file](https://github.com/erciitb/frosty-winter-2021/tree/main/W3_Files/maze_world.launch) and put it into the launch folder. This was just to load the map in gazebo and spawn the turtlebot.
 
 To ensure everything is working, go to your catkin_workspace, and run catkin_make . Then run
 
