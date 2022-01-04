@@ -20,7 +20,7 @@ This should launch gazebo with a closed maze and turtlebot inside it.
 
 Now, we shall write a script to automate the process of navigation, i.e. to keep travelling within this maze.
 
-In scripts.py, create a file named 'navigator.py'. We are going to create a class named AutoNavigator to handle this navigation for us. Looking into the code snippet by snippet,
+In scripts folder, create a file named 'navigator.py'. We are going to create a class named AutoNavigator to handle this navigation for us. Looking into the code snippet by snippet,
 
 ```
 # Importing libraries
